@@ -1,0 +1,30 @@
+.navbar div{
+	padding: 15px;
+	width: 100%;
+}
+.navbar div .pages{
+	text-align: center;
+}
+.navbar div .name{
+	text-align: left;
+	padding: 2px !important;
+	font-family: 'Abril Fatface', cursive;
+}
+.navbar a{
+	padding:15px;
+	text-align: center;
+	text-decoration: none;
+	color:#8E1812;
+}
+.navbar a:hover{
+	color: #F4866D;
+}
+#nb{
+	z-index: 5;
+	position: fixed;
+	left:0;
+	top:0;
+	right:0;
+	background-color: #FAF7F4;
+
+}
