@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
+import Favicon from 'react-favicon';
 
 import './css/Navbar.css'
 
@@ -10,6 +11,8 @@ class Navbar extends Component {
   		console.log(loc==='school', loc)
 	    return (
 			<div class = 'navbar' id = "nb">
+			   <Favicon url="/favicon.png" />
+
 				<div>
 
 					<Link class='name'to={'/'}>AM</Link>
