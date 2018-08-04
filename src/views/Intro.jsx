@@ -8,9 +8,12 @@ class Intro extends Component {
   render() {
     return (
     	<div class = 'content' align = 'center'>
-	    	<p class="header">
-		      Abigail Medina
-	    	</p>
+	    	<div class ="title">
+	    		<img src='/profilePic.jpg' alt = "me"/>	
+		    	<p class="header">
+			      Abigail Medina
+		    	</p>
+	    	</div>
 	    	<p class = "aboutMe">
 	    	Hi, I am a Junior at Rensselaer Polytechnic Institute working towards
 	    	a Computer Science major and Copmuter Systems Engineering minor.
