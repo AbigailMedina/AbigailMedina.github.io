@@ -10,7 +10,7 @@ class Navbar extends Component {
   		console.log(loc==='school', loc)
 	    return (
 			<div class = 'navbar' id = "nb">
-				<Favicon url='/favicon.png'>
+				<Favicon url='/favicon.png'/>
 				<div>
 
 					<Link class='name'to={'/'}>AM</Link>
