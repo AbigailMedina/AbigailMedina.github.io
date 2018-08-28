@@ -22,7 +22,7 @@ class Intro extends Component {
 	      		<a href = "https://docs.google.com/document/d/1T8tE_Pz34CRaQX0qKJiAc1cPEU1SYaiq4VJ4v9tgJjU/export?format=pdf">
 		      		<Icon>
 						<i class="fa fa-file" aria-hidden="true"></i>
-					</Icon><span>downlad my resume</span>
+					</Icon><span>download my resume</span>
 	      		</a>
 
 	      	</Button>

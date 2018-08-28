@@ -26,8 +26,8 @@ class Footer extends Component {
 	      		</a>
 
 	      	</Button>
-	      	<Button title="email">
-	      		<a href = "mailto::medina2@rpi.edu">
+	      	<Button title="linkedin">
+	      		<a href = "https://www.linkedin.com/in/abigail-m/">
 		      		<Icon>
 	      				<i class="fab fa-linkedin"></i>
 					</Icon>
