@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import './App.css';
 
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, HashRouter } from 'react-router-dom';
 import HomePage  from './views/HomePage'
 import SchoolPage  from './views/SchoolPage'
 import Hobbies  from './views/Hobbies'
@@ -12,7 +12,7 @@ class App extends Component {
 
 render() {
     return (
-      <Router>
+      <HashRouter>
         <div>
           <Route 
             exact path="/" 
@@ -27,7 +27,7 @@ render() {
           exact path="/experiences" 
           component={Experiences} />
           </div>
-      </Router>
+      </HashRouter>
     )
   }
 
