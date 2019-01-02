@@ -32,7 +32,7 @@ class Experiences extends Component {
 			    		I planned on using this internship to steer the focus of my studies for the remainder
 				    	of my college career, however I cannot choose just yet. Scala challenges me. 
 				    	UX intrigues me. And I plan on practicing all the skills I&#39;ve gained this summer for
-				    	quite some time.
+				    	quite some time as I work with the company part-time as I continue school.
 				    </p>
 				    <p>
 				    	<strong>Travel</strong>: I&#39;ve recently had the opportunity to see three countries
@@ -41,13 +41,14 @@ class Experiences extends Component {
 				    	Venice had the most interesting architechture.
 			    	</p>
 			    	<p>
-				    	RA?
-			    	</p>
-			    	<p>
-			    		Price Chopper?
-			    	</p>
-			    	<p>
-			    		GWC?
+			    		<strong>Grace Hopper Conference</strong>:This year I had the opportunity to attend the Grace 
+			    		Hopper Conference(GHC) in Houston, Texas on a scholarship along with a few other girls from 
+			    		my school. It was a great experience being surrounded by strong women in technology supporting 
+			    		eachother. The conference gave me opportunities to meet with recruiters at companies large and 
+			    		small, to hear lectures from influential people in the field to learn new skills and tools. Coming
+			    		from a school with a minimal percentage of female prescence studying a male dominated field, 
+			    		GHC was a breath of fresh air. If anyone is sceptical of whether to attend the next conference,
+			    		I would highly reccommend finding a sponsor and hopping on a plane.
 			    	</p>
 
 			    </div>

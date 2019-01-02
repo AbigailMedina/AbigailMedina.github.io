@@ -16,7 +16,7 @@ class Intro extends Component {
 	    	</div>
 	    	<p class = "aboutMe">
 	    	Hi, I am a Junior at Rensselaer Polytechnic Institute working towards
-	    	a Computer Science major and Copmuter Systems Engineering minor.
+	    	a Computer Science major with a minor in Computer Systems Engineering and Psychology.
 	    	</p>
 	    	<Button title="resume">
 	      		<a href = "https://docs.google.com/document/d/1T8tE_Pz34CRaQX0qKJiAc1cPEU1SYaiq4VJ4v9tgJjU/export?format=pdf">

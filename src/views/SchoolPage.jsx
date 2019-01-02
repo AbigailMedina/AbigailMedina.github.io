@@ -44,13 +44,15 @@ class SchoolPage extends Component {
 		      	<h1 class = 'center'>Upcoming Classes</h1>
 
 				<p class="center">
-				  <p>Rensselaer Center for Open Source - RCOS</p>
-				  <p>Circuits</p>
-				  <p>Programming Languages</p>
+				  // <p>Rensselaer Center for Open Source - RCOS</p>
+				  // <p>Circuits</p>
+				  // <p>Programming Languages</p>
+				  <p>Software Design and Documentation</p>
+				  <p>Computer Architecture, Networks, and Operating Systems</p>
 				</p>
 
 				<h1 class = 'center'>Skills</h1>
-				<div class = 'center'>Java, Python, C++, Scala, JavaScript, HTML, CSS</div>
+				<div class = 'center'>Java, Python, C++, Scala, JavaScript, HTML, CSS, Scheme</div>
 			</div>
 
 	      </div>
